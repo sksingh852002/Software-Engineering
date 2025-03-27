@@ -24,7 +24,7 @@ with col2:
     output_text_area = st.title("Answer")  # Title for the answer section
     output_text_area = st.markdown("", unsafe_allow_html=True)  # Placeholder for displaying the answer
 
-genai.configure(api_key="AIzaSyDVF1VbRsuQA97TpRKfktfjbe9aamWbdOQ")  # Configuring the Generative AI with API key
+genai.configure(api_key="{Your Api Key Here}")  # Configuring the Generative AI with API key
 model = genai.GenerativeModel("gemini-1.5-flash")  # Initializing the Generative AI model
 
 # Initialize the webcam to capture video
