@@ -10,7 +10,7 @@ import streamlit as st  # Importing Streamlit for creating the web app
 
 # Set the title of the Streamlit app with required color
 st.markdown("<h1 style='color:#e9c46a;'>Real-Time Handwriting Recognition and AI Response System</h1>", unsafe_allow_html=True)
-st.markdown("<h3 style='color:#e9c46a;'>Saurav Kumar (2230283), Shravan Yadav(2230290), Shubham Kumar(2230292)</h3>", unsafe_allow_html=True)
+# st.markdown("<h3 style='color:#e9c46a;'>Saurav Kumar (2230283), Shravan Yadav(2230290), Shubham Kumar(2230292), Vaddi Divya(2230207)</h3>", unsafe_allow_html=True)
 
 
 
