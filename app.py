@@ -11,7 +11,7 @@ import streamlit as st  # Importing Streamlit for creating the web app
 # Set the title of the Streamlit app with required color
 st.markdown("<h1 style='color:#e9c46a;'>Real-Time Handwriting Recognition and AI Response System</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='color:#e9c46a;'>Saurav Kumar (2230283), Shravan Yadav(2230290), Shubham Kumar(2230292)</h3>", unsafe_allow_html=True)
-st.markdown("<h4 style='color:#e9c46a;'>Guided By:Prof. B.N Rao</h4>", unsafe_allow_html=True)
+
 
 
 col1, col2 = st.columns([2, 1])  # Creating two columns with a 2:1 ratio
