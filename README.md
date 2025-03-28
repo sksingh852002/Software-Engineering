@@ -64,7 +64,7 @@ The interface is created using **Streamlit**:
 
 ```python
 st.markdown("<h1 style='color:#e9c46a;'>Virtual Math Calculator</h1>", unsafe_allow_html=True)
-st.markdown("<h3 style='color:#e9c46a;'>Saurav Kumar (2230283), Shravan Yadav(2230290), Shubham Kumar(2230292)</h3>", unsafe_allow_html=True)
+# st.markdown("<h3 style='color:#e9c46a;'>Saurav Kumar (2230283), Shravan Yadav(2230290), Shubham Kumar(2230292), Vaddi Divya(2230207)</h3>", unsafe_allow_html=True)
 
 
 col1, col2 = st.columns([2, 1])  # Creating two columns with a 2:1 ratio
